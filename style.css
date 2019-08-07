@@ -1,0 +1,43 @@
+body {
+    background-color: dimgray;
+    text-align: center;
+    font-family: arial;
+    margin: auto;
+  }
+  h1 {
+    color: salmon;
+  }
+  
+  h4 {
+    color: cornsilk;
+  }
+  
+  table{
+    text-align: center;
+    margin: auto;
+    padding-bottom: 10px;
+  }
+  
+  tr {
+    color: dimgray;
+    background-color: cornsilk;
+  }
+  
+  th {
+    color: salmon;
+    padding: 10px;
+    border: 2px solid;
+  }
+  
+  td {
+    border: 2px solid salmon;
+    padding: 10px;
+  }
+
+  footer {
+      margin: auto;
+      color: salmon;
+      font-weight: bold;
+      padding-top: 20px;
+      font-style: italic;
+  }
